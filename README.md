@@ -1,9 +1,11 @@
 "# SQL_IYKRA" 
 
 1.
-select title
+```select title
 from film 
 where description like '%Astronaut%'
+```
+
 
 2.
 select title
