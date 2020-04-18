@@ -1,4 +1,4 @@
-"# SQL_IYKRA" 
+# Practice Case IYKRA
 
 1.
 ```
