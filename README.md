@@ -62,4 +62,14 @@ group by customer_id
 having count(p.payment_id) >= 40
 order by Total_Transaksi desc
 ```
+Python
+Please make a python function that introduces your name, address, date of birth, and print them out into one sentence!
+```
+name = input('Enter your name:')
+address = input('Enter your address:')
+date = input('Enter your date:')
+def perkenalan(name,address,date):
+  print("My name is "+ name+ ", I live in "+ address+ ", I was born on "+ date)
+perkenalan(name,address,date)
 
+```
